@@ -1,0 +1,68 @@
+assetsmap_bytes.assetbundle,assetsmap.bytes
+common.assetbundle,common/environment.prefab
+common.assetbundle,common/testmat1.mat
+common.assetbundle,common/testmat2.mat
+configs.assetbundle,configs/rendersettings/forwardrenderer.asset
+configs.assetbundle,configs/rendersettings/new custom universal renderer data.asset
+configs.assetbundle,configs/rendersettings/universalrp-highquality.asset
+entitytest/22_png.assetbundle,entitytest/22.png
+entitytest/autoauthoringsubscene_unity.assetbundle,entitytest/autoauthoringsubscene.unity
+entitytest/autoauthoringsubscene2_unity.assetbundle,entitytest/autoauthoringsubscene2.unity
+entitytest/autoauthoringsubscene3_unity.assetbundle,entitytest/autoauthoringsubscene3.unity
+entitytest/blue_mat.assetbundle,entitytest/blue.mat
+entitytest/bluecube_prefab.assetbundle,entitytest/bluecube.prefab
+entitytest/green_mat.assetbundle,entitytest/green.mat
+entitytest/green2_mat.assetbundle,entitytest/green2.mat
+entitytest/greencube_prefab.assetbundle,entitytest/greencube.prefab
+entitytest/greencube2_prefab.assetbundle,entitytest/greencube2.prefab
+entitytest/red_mat.assetbundle,entitytest/red.mat
+entitytest/red2_mat.assetbundle,entitytest/red2.mat
+entitytest/redcube_prefab.assetbundle,entitytest/redcube.prefab
+entitytest/redcube2_prefab.assetbundle,entitytest/redcube2.prefab
+entitytest/redcube21_prefab.assetbundle,entitytest/redcube2 1.prefab
+entitytest/redcube210_prefab.assetbundle,entitytest/redcube2 10.prefab
+entitytest/redcube211_prefab.assetbundle,entitytest/redcube2 11.prefab
+entitytest/redcube212_prefab.assetbundle,entitytest/redcube2 12.prefab
+entitytest/redcube213_prefab.assetbundle,entitytest/redcube2 13.prefab
+entitytest/redcube214_prefab.assetbundle,entitytest/redcube2 14.prefab
+entitytest/redcube215_prefab.assetbundle,entitytest/redcube2 15.prefab
+entitytest/redcube216_prefab.assetbundle,entitytest/redcube2 16.prefab
+entitytest/redcube217_prefab.assetbundle,entitytest/redcube2 17.prefab
+entitytest/redcube218_prefab.assetbundle,entitytest/redcube2 18.prefab
+entitytest/redcube219_prefab.assetbundle,entitytest/redcube2 19.prefab
+entitytest/redcube22_prefab.assetbundle,entitytest/redcube2 2.prefab
+entitytest/redcube220_prefab.assetbundle,entitytest/redcube2 20.prefab
+entitytest/redcube221_prefab.assetbundle,entitytest/redcube2 21.prefab
+entitytest/redcube222_prefab.assetbundle,entitytest/redcube2 22.prefab
+entitytest/redcube223_prefab.assetbundle,entitytest/redcube2 23.prefab
+entitytest/redcube224_prefab.assetbundle,entitytest/redcube2 24.prefab
+entitytest/redcube23_prefab.assetbundle,entitytest/redcube2 3.prefab
+entitytest/redcube24_prefab.assetbundle,entitytest/redcube2 4.prefab
+entitytest/redcube25_prefab.assetbundle,entitytest/redcube2 5.prefab
+entitytest/redcube26_prefab.assetbundle,entitytest/redcube2 6.prefab
+entitytest/redcube27_prefab.assetbundle,entitytest/redcube2 7.prefab
+entitytest/redcube28_prefab.assetbundle,entitytest/redcube2 8.prefab
+entitytest/redcube29_prefab.assetbundle,entitytest/redcube2 9.prefab
+shaders.assetbundle,shaders/common/debug.hlsl
+shaders.assetbundle,shaders/herodisplay/herodisplaycommon.hlsl
+shaders.assetbundle,shaders/shader.code-workspace
+shaders.assetbundle,shaders/world/effectcommon.hlsl
+shaders.assetbundle,shaders/world/foliagecommon.hlsl
+shaders.assetbundle,shaders/world/hybridanimatorinstance.cginc
+shaders.assetbundle,shaders/world/hybridinstancebuffers.cginc
+shaders.assetbundle,shaders/world/hybridlitbasepass.hlsl
+shaders.assetbundle,shaders/world/hybridlitcommon.hlsl
+shaders.assetbundle,shaders/world/hybridlitcommoninput.hlsl
+shaders.assetbundle,shaders/world/hybridlitdepthonlypass.hlsl
+shaders.assetbundle,shaders/world/hybridlitshadowcasterskinning.hlsl
+shaders.assetbundle,shaders/world/hybridshaderextandparameter.hlsl
+shaders.assetbundle,shaders/world/hybridworldbaselitteamcoloranim.shader
+shaders.assetbundle,shaders/world/litbasepass.hlsl
+shaders.assetbundle,shaders/world/litcommon.hlsl
+shaders.assetbundle,shaders/world/litcommoninput.hlsl
+shaders.assetbundle,shaders/world/litdepthonlypass.hlsl
+shaders.assetbundle,shaders/world/litshadowcaster.hlsl
+shaders.assetbundle,shaders/world/shaderextandparameter.hlsl
+shaders.assetbundle,shaders/world/worldbaselitopaque.shader
+shaders.assetbundle,shaders/world/worldbaselitopaquemask.shader
+shaders.assetbundle,shaders/world/worldbaselitteamcolor.shader
